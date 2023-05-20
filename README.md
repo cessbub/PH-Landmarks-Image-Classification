@@ -1,7 +1,7 @@
 # PH-Landmarks-Image-Classification
 This is my personal image classification project aimed at identifying landmarks in the Philippines. The goal of this project is to build an accurate image classifier that can recognize and classify images of landmarks found in the Philippines.
 
-I am for the project to have the following components:
+I aim for the project to have the following components:
 
 🟩 Web Scraping: Code to scrape images of landmarks from relevant websites, such as tourism websites, travel blogs, or photography platforms. Please ensure you comply with the terms of service and obtain necessary permissions before scraping any content.
 
